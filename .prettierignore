@@ -1,0 +1,8 @@
+node_modules/
+build/
+
+.gitignore
+.eslintignore
+.prettierignore
+
+package-lock.json
