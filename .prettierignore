@@ -6,3 +6,4 @@ build/
 .prettierignore
 
 package-lock.json
+*.todo
